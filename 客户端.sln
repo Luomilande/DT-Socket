@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "客户端", "客户端\客户端.csproj", "{50C2D9AF-D9E2-4506-9E62-D3FA54525A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "服务端", "服务端\服务端.csproj", "{F6D5073E-6F19-4B69-82F3-DDB856C6B00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C2D9AF-D9E2-4506-9E62-D3FA54525A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C2D9AF-D9E2-4506-9E62-D3FA54525A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C2D9AF-D9E2-4506-9E62-D3FA54525A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C2D9AF-D9E2-4506-9E62-D3FA54525A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D5073E-6F19-4B69-82F3-DDB856C6B00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D5073E-6F19-4B69-82F3-DDB856C6B00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D5073E-6F19-4B69-82F3-DDB856C6B00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D5073E-6F19-4B69-82F3-DDB856C6B00B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326D7135-BD98-4184-86A5-7BC069C5CF9E}
+	EndGlobalSection
+EndGlobal
